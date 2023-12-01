@@ -1,8 +1,6 @@
-# MYRA
-
-[![javadoc](https://javadoc.io/badge2/com.github.febo/myra/javadoc.svg?style=flat-square)](https://javadoc.io/doc/com.github.febo/myra) [![Maven Central](https://img.shields.io/maven-central/v/com.github.febo/myra?style=flat-square)](https://search.maven.org/search?q=g:com.github.febo%20AND%20a:myra) ![MYRA License](https://img.shields.io/github/license/febo/myra?style=flat-square)
-
-MYRA is a collection of Ant Colony Optimization (ACO) algorithms for the data mining classification and regression tasks. It includes popular rule induction and decision tree induction algorithms. The algorithms are ready to be used from the command line or can be easily called from your own Java code. They are implemented using a modular architecture, so they can be easily extended to incorporate different procedures and/or use different parameter values.
+# Ant-Miners
+In here i try to collect all version of Ant-Miners. it's included mainly myra project.
+collection of Ant Colony Optimization (ACO) algorithms for the data mining classification and regression tasks. It includes popular rule induction and decision tree induction algorithms. The algorithms are ready to be used from the command line or can be easily called from your own Java code. They are implemented using a modular architecture, so they can be easily extended to incorporate different procedures and/or use different parameter values.
 
 This repository contains a complete rewrite of the code (by the same author) from the MYRA project hosted at [sourceforge](http://sourceforge.net/projects/myra/). The computational time has been significantly improved &mdash; tasks that used to take minutes, now are done in seconds &mdash; although it was not possible to maintain backward compatibility. You will find that the overall architecture is very similar, but most of the data structures have changed.
 
